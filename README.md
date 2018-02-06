@@ -17,8 +17,8 @@
 ## Destination
 Yosemite National Park 
 ## Budget 
-$800 ???
+$1000
 ## Length of Trip
-A week
+A week -- April 24th - April 31st
 ## Purpose of Trip
-Spring Break?
+Spring Break to explore Yosemite and visit one of the most popular national parks.
