@@ -7,4 +7,9 @@
   * Plane tickets
   * Food itinerary
   * Emergency flashlight 
+  * tent
+  * America the beautiful passes
+  * Clothes 
+  * Comfortable walking shoes 
+  
   
