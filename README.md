@@ -2,8 +2,8 @@
 
 ## Team Members
 * Daniel King (Product Owner)
-* Alex Garcia (Scrum Master)
-* Julia Wopata
+* Alex Garcia 
+* Julia Wopata (Master de le Scrum) 
 * Kolton Speer
 * Kelly Galakatos
 
