@@ -1,5 +1,6 @@
 # Itinerary
 #### Day 1(travel day) - March 24th
+![Flight Info](https://github.com/danielking13/TripProjectSE/blob/master/Screen%20Shot%202018-02-07%20at%204.07.47%20PM.png "Flight info")
 1:30     Meet at MCI airport in Kansas City, MO at 1:30pm (room for error)
 * Check bags (if necessary)
 * Go through security
@@ -14,6 +15,8 @@
 9:36     Land in Sacramento
 * Get rental car
 * Stay in Airbnb that night -- $30 per person
+
+![Airbnb Info](https://github.com/danielking13/TripProjectSE/blob/master/Screen%20Shot%202018-02-13%20at%202.21.48%20PM.png "Airbnb March 24th")
 #### Day 2 - March 25th
 ##### Travel to Yosemite National Park
 9:00AM Depart the Airbnb
