@@ -33,4 +33,4 @@ Spring Break to explore Yosemite and visit one of the most popular national park
 
 ## [Packing List](https://github.com/danielking13/TripProjectSE/blob/master/PackingList.md)
 
-## [Emergency contacts] (https://github.com/danielking13/TripProjectSE/blob/master/Emergency%20Contact%20List.md)
+## [Emergency contacts](https://github.com/danielking13/TripProjectSE/blob/master/Emergency%20Contact%20List.md)
