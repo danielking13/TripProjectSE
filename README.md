@@ -1,9 +1,11 @@
 # Trip Planning Project
 
+https://jmw7cf.axosoft.com/
+
 ## Team Members
 * Daniel King (Product Owner)
 * Alex Garcia 
-* Julia Wopata (Master de le Scrum) 
+* Julia Wopata (Scrum Master)
 * Kolton Speer
 * Kelly Galakatos
 
