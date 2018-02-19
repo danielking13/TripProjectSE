@@ -1,5 +1,7 @@
 # Budget for Yosemite
 
+[Food Expenses On Trip](Food.md)
+
 ## Expense Sheet
 
 | Expense         |    Total Cost    | Total Remaining | Per Person Cost | Per Person Remaining |
