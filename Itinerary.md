@@ -30,6 +30,7 @@
 
 ##### Visit Tunnel View and watch the sunset
 ![Tunnel View Sunset](https://github.com/danielking13/TripProjectSE/blob/master/yosemite-sunset.jpg "Tunnel View Sunset")
+
 7:14PM - 7:40PM is sunset. 
 
 #### Day 3 - March 26th
