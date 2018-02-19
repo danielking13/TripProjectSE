@@ -18,3 +18,4 @@
 ![America the Beautiful Pass](https://github.com/danielking13/TripProjectSE/blob/feature/budget/americaTheBeautifulPass.PNG "America the Beautiful Pass")
 ![Tent Picture](https://github.com/danielking13/TripProjectSE/blob/feature/budget/TentPic.png)
 ![Sleeping Bag Picture](https://github.com/danielking13/TripProjectSE/blob/feature/budget/SleepingBag.png)
+![Car Rental Picture](https://github.com/danielking13/TripProjectSE/blob/feature/budget/CarRental.PNG )
