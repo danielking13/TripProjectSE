@@ -3,7 +3,7 @@
 https://jmw7cf.axosoft.com/
 
 ## Yosemite National Park
-![Yosemite Valley](https://github.com/danielking13/TripProjectSE/blob/feature/budget/yosemite-valley.PNG "Yosemite National Park")
+![Yosemite Valley](https://github.com/danielking13/TripProjectSE/blob/feature/budget/yosemite-photo.PNG "Yosemite National Park")
 
 ## Team Members
 * Daniel King (Product Owner)
