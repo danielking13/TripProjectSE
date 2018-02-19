@@ -49,7 +49,16 @@ We will start at the trailhead of Four Mile Trail and hike to the top of Glacier
 7:00PM Arrive back at camp and eat dinner
 
 #### Day 4 - March 27th
+##### Yosemite Falls Trail
+This hike takes you to Columbia and Yosemite Falls. The trail is 7.2 miles (11.6 km) round trip and will take 6 - 8 hours.
 
+9:30AM Start at the trailhead at Camp 4 area (near shuttle stop #7 and El Capitan Shuttle stop #E2)
+
+1:00PM Reach the top of Yosemite Falls and eat lunch.
+
+2:30PM Begin descenet.
+
+5:30PM Arrive at the bottom of the falls and return to camp. 
 
 #### Day 5 - March 28th
 ##### Hike Half Dome
