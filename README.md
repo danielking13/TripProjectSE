@@ -28,3 +28,5 @@ A week -- March 24th - March 31st
 ## Purpose of Trip
 Spring Break to explore Yosemite and visit one of the most popular national parks.
 ## [Itinerary](https://github.com/danielking13/TripProjectSE/blob/master/Itinerary.md)
+
+## [Food Planning](https://github.com/danielking13/TripProjectSE/blob/master/Food.md)
