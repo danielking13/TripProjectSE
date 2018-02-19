@@ -25,5 +25,6 @@ Yosemite National Park
 $1000 per person
 ## Length of Trip 
 A week -- March 24th - March 31st
-## Purpose of Trip [Itinerary](https://github.com/danielking13/TripProjectSE/blob/master/Itinerary.md)
+## Purpose of Trip
 Spring Break to explore Yosemite and visit one of the most popular national parks.
+#### [Itinerary](https://github.com/danielking13/TripProjectSE/blob/master/Itinerary.md)
