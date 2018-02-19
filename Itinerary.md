@@ -102,3 +102,10 @@ PARKSIDE PIZZA IN EL PORTAL, CA -- 11120 CA-140, El Portal, CA 95318
 1:30PM Begin drive to Airbnb in Sacramento, CA.
 
 #### Day 8(travel day) - March 31st
+
+Eat breakfast at Starbucks in Sacremento Airport
+
+6:40 AM Flight leaves for Seattle
+* Eat lunch in Seattle Airport
+
+3:30 Arrive back in Kansas City
