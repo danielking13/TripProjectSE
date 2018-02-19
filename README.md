@@ -21,9 +21,9 @@ https://jmw7cf.axosoft.com/
 
 ## Destination
 Yosemite National Park 
-## Budget 
+## [Budget](https://github.com/danielking13/TripProjectSE/blob/master/budget.md) 
 $1000 per person
-## Length of Trip
+## Length of Trip 
 A week -- March 24th - March 31st
-## Purpose of Trip
+## Purpose of Trip [Itinerary](https://github.com/danielking13/TripProjectSE/blob/master/Itinerary.md)
 Spring Break to explore Yosemite and visit one of the most popular national parks.
