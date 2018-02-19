@@ -15,10 +15,23 @@
 * Get rental car
 * Stay in Airbnb that night -- $30 per person
 #### Day 2 - March 25th
-Glacier Point and Four Mile Trail
+
+
 #### Day 3 - March 26th
-Hike Half Dome (full day)
+##### Glacier Point -- Four Mile Trail
+Four Mile Trail: 4.8 miles (7.7 km) one-way; 3 to 4 hours
+9:00 We will start at the trailhead of Four Mile Trail and hike to the top of Glacier Point. This trail will take 3 - 4 hours and we anticipate reaching the top around 1:00PM.
+
+1:00PM While at the top we will stop and take photos, eat lunch, and enjoy the views.
+
+2:30PM We begin our descent of the mountain. 
+
+6:30PM Reach the bottom of the mountain
+
+7:00PM Arrive back at camp and eat dinner
+
 #### Day 4 - March 27th
+##### Hike Half Dome
 
 #### Day 5 - March 28th
 
