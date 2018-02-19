@@ -88,4 +88,7 @@ This trail is a distance of 5.4 mi (8.7 km) round trip (via Mist Trail) and will
 
 #### Day 7 - March 30th
 
+6:00PM Eat dinner at Parkside Pizza in Yosemite View Lodge
+PARKSIDE PIZZA IN EL PORTAL, CA -- 11120 CA-140, El Portal, CA 95318
+
 #### Day 8(travel day) - March 31st
