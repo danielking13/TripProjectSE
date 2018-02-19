@@ -42,6 +42,8 @@ We will start at the trailhead of Four Mile Trail and hike to the top of Glacier
 
 1:00PM While at the top we will stop and take photos, eat lunch, and enjoy the views.
 
+![Yosemite Falls lunch](https://github.com/danielking13/TripProjectSE/blob/master/IMG_7301.jpg "Yosemite Falls Lunch")
+
 2:30PM We begin our descent of the mountain. 
 
 6:30PM Reach the bottom of the mountain
