@@ -49,11 +49,33 @@ We will start at the trailhead of Four Mile Trail and hike to the top of Glacier
 7:00PM Arrive back at camp and eat dinner
 
 #### Day 4 - March 27th
-##### Hike Half Dome
+
 
 #### Day 5 - March 28th
+##### Hike Half Dome
+![Half Dome](https://github.com/danielking13/TripProjectSE/blob/master/half-dome.jpg "Half Dome")
+
+This hike is a 14- to 16-mile round-trip and will take 10 - 12 hours.
+6:00AM Arrive at trailhead
+
+3:30PM If we haven't reached the top of Half Dome, we turn around
+
+6:30PM Complete the trail and arrive back at the trailhead.
+Return to the campsite
 
 #### Day 6 - March 29th
+##### Vernal Falls and Nevada Falls
+![Vernal and Nevada Falls](https://github.com/danielking13/TripProjectSE/blob/master/vernal-nevada-falls.jpg "Vernal and Nevada Falls")
+
+This trail is a distance of 5.4 mi (8.7 km) round trip (via Mist Trail) and will take 5-6 hours.
+
+10:00AM We will reach the trail head.
+
+1:00PM We will reach the top of Nevada Falls and have lunch/enjoy the views.
+
+2:30PM We will begin our descent.
+
+5:30PM Arrive at the trailhead and return to camp.
 
 #### Day 7 - March 30th
 
