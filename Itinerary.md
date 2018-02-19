@@ -37,12 +37,12 @@
 ##### Glacier Point -- Four Mile Trail
 9:00AM Check in at campground office
 
+![Glacier Point](https://github.com/danielking13/TripProjectSE/blob/master/IMG_7230.jpg "Glacier Point")
+
 10:00AM Four Mile Trail: 4.8 miles (7.7 km) one-way; 3 to 4 hours
 We will start at the trailhead of Four Mile Trail and hike to the top of Glacier Point. This trail will take 3 - 4 hours and we anticipate reaching the top around 1:00PM.
 
 1:00PM While at the top we will stop and take photos, eat lunch, and enjoy the views.
-
-![Yosemite Falls lunch](https://github.com/danielking13/TripProjectSE/blob/master/IMG_7301.jpg "Yosemite Falls Lunch")
 
 2:30PM We begin our descent of the mountain. 
 
@@ -57,6 +57,7 @@ This hike takes you to Columbia and Yosemite Falls. The trail is 7.2 miles (11.6
 9:30AM Start at the trailhead at Camp 4 area (near shuttle stop #7 and El Capitan Shuttle stop #E2)
 
 1:00PM Reach the top of Yosemite Falls and eat lunch.
+![Yosemite Falls lunch](https://github.com/danielking13/TripProjectSE/blob/master/IMG_7301.jpg "Yosemite Falls Lunch")
 
 2:30PM Begin descenet.
 
