@@ -105,7 +105,7 @@ Eat dinner at In-N-Out Burger
 
 Spend night at Airbnb.
 
-![Airbnb last night](https://github.com/danielking13/TripProjectSE/blob/master/Screen%20Shot%202018-02-13%20at%202.24.25%20PM.png "Airbnb last night")
+![Airbnb last night](https://github.com/danielking13/TripProjectSE/blob/master/Screen%20Shot%202018-02-13%20at%202.24.25%20PM.png "Airbnb last night") 
 
 #### Day 8(travel day) - March 31st
 
