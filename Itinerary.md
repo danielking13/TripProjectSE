@@ -109,7 +109,9 @@ Spend night at Airbnb.
 
 #### Day 8(travel day) - March 31st
 
-Eat breakfast at Starbucks in Sacremento Airport
+Return rental car
+
+Eat breakfast at Starbucks in Sacramento Airport
 
 6:40 AM Flight leaves for Seattle
 * Eat lunch in Seattle Airport
