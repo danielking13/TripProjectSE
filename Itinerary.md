@@ -29,7 +29,7 @@
 
 2:40PM - 4:45PM Drive to Yosemite National Park
 
-5:00PM Check in at campground kiosk -- will check in at office the next morining.
+5:00PM Check in at campground kiosk -- will check in at office the next morning.
 
 ##### Visit Tunnel View and watch the sunset
 ![Tunnel View Sunset](https://github.com/danielking13/TripProjectSE/blob/master/yosemite-sunset.jpg "Tunnel View Sunset")
@@ -62,7 +62,7 @@ This hike takes you to Columbia and Yosemite Falls. The trail is 7.2 miles (11.6
 1:00PM Reach the top of Yosemite Falls and eat lunch.
 ![Yosemite Falls lunch](https://github.com/danielking13/TripProjectSE/blob/master/IMG_7301.jpg "Yosemite Falls Lunch")
 
-2:30PM Begin descenet.
+2:30PM Begin descent.
 
 5:30PM Arrive at the bottom of the falls and return to camp. 
 
@@ -100,6 +100,10 @@ Morning -- pack up the campsite.
 PARKSIDE PIZZA IN EL PORTAL, CA -- 11120 CA-140, El Portal, CA 95318
 
 1:30PM Begin drive to Airbnb in Sacramento, CA.
+
+Eat dinner at In-N-Out Burger
+
+Spend night at Airbnb.
 
 #### Day 8(travel day) - March 31st
 
